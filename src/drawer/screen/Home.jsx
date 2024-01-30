@@ -123,7 +123,7 @@ const Home = ({ navigation }) => {
                               <Play name="play" size={25} color={theme === 'light' ? MyColor.fontColor : MyColor.darkText} style={{ marginHorizontal: 15 }} />
                             </View>
                           </View>
-                          {/* <Button title='click me' onPress={()=> appOpenAd.show()}/> */}
+                          {/* <Button title='click me' onPress={()=> appOpenAd.show()}/>*/}
                         </View>
                       </TouchableOpacity>
 
