@@ -1,0 +1,299 @@
+[
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHOI Radio X 98.1 live",
+        "radioUrl": "https://lb0-stream.radiox981.ca/choi.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/QYP7zJcjJR.png",
+        "Language": "English",
+        "Categories": "Talk"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJEC WKND 91.9 FM live",
+        "radioUrl": "https://streaming2.cjec.leclerccommunication.ca/proxy/wknd/cjec.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/CMXN4fejZw.png",
+        "Language": "English",
+        "Categories": "Alternative Rock"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CIDC Z103.5 live",
+        "radioUrl": "https://evanov.leanstream.co/CIDCFM?args=web_01",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/kmR5bTLY5B.png",
+        "Language": "English",
+        "Categories": "R&B, Top 40"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "Play 107 // another playing link",
+        "radioUrl": "https://ais-sa1.streamon.fm/7260_64k.aac",
+        "image": "https://cdn.onlineradiobox.com/img/l/6/18646.v5.png",
+        "Language": "English",
+        "Categories": "adult contemporary"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKLX 91.9 Sports FM",
+        "radioUrl": "https://stream.919sports.ca/cklx.mp3",
+        "image": "https://www.radio.net/images/broadcasts/f4/b7/170238/1/c300.png",
+        "Language": "English",
+        "Categories": "Montreal, Canada, Sports, French"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHWE Energy 106 FM live",
+        "radioUrl": "https://evanov.streamb.live/SB00229?args=web_01&starttime=1697560480",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/2uRq5t9qWg.png",
+        "Language": "English",
+        "Categories": "Top 40"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKFU 100.1 Moose FM live",
+        "radioUrl": "https://14833.live.streamtheworld.com/MOOSEFMAAC_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/fma77x93UX.png",
+        "Language": "English",
+        "Categories": "Country"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKDO live",
+        "radioUrl": "https://24443.live.streamtheworld.com/CKDOFMAAC_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/cdLbEVWuyX.png",
+        "Language": "English",
+        "Categories": "Classic Hits"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJKX KX96 live",
+        "radioUrl": "https://14153.live.streamtheworld.com/CJKXFMAAC_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/Eym9YuSnar.png",
+        "Language": "English",
+        "Categories": "Country"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "Global News Radio 980 CKNW",
+        "radioUrl": "https://corus.leanstream.co/CKNWAM-MP3?playertype=dplayer&type=.mp3",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/csGrGSQ8QN.jpg",
+        "Language": "English",
+        "Categories": "Talk, News"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHLX WOW 97.1 FM",
+        "radioUrl": "https://stream.wow971.ca/chlx.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/dgeyygmk5vfd.png",
+        "Language": "English",
+        "Categories": "Pop Music"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CIGO 101.5 The Hawk",
+        "radioUrl": "https://live.amperwave.net/manifest/acadia-cigofmaac-hlsc2.m3u8",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/5vqxf7cJdg.png",
+        "Language": "English",
+        "Categories": "Hot AC, Adult Contemporary"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "Radio Bellissima Italia - live",
+        "radioUrl": "https://listen.openstream.co/6095/audio",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/yrx6vhy4jk9z.png",
+        "Language": "NA",
+        "Categories": "Pop Music, Adult Contemporary, Oldies"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CIXL Giant FM live",
+        "radioUrl": "https://ice66.securenetsystems.net/CIXL",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/9eUWa7BN8M.png",
+        "Language": "English",
+        "Categories": "Classic, Rock Rock"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKMN 96.5 FM live",
+        "radioUrl": "http://stream.statsradio.com:8070/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/kwJtKd2txZ.png",
+        "Language": "English",
+        "Categories": "Community"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHVD Planète 100.3 FM",
+        "radioUrl": "https://19013.live.streamtheworld.com/CHVDFMAAC_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/SE2RCfGzxv.jpeg",
+        "Language": "English",
+        "Categories": "Adult Contemporary"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CIQI 90.3 FM live",
+        "radioUrl": "http://stream.statsradio.com:8044/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/2g5czSz46G.png",
+        "Language": "English",
+        "Categories": "Oldies"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "Radio Bellissima Relax live",
+        "radioUrl": "https://listen.openstream.co/3607/audio",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/6nvzbyfer2hf.jpg",
+        "Language": "English",
+        "Categories": "Chillout, Easy Listening, Lounge"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKRL 89.1 FM live",
+        "radioUrl": "https://stream02.ustream.ca/ckrl128.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/EfWApsNSFj.png",
+        "Language": "English",
+        "Categories": "Community, Talk, Variety"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CFEL BLVD 102.1 FM live",
+        "radioUrl": "https://streaming2.cfel.leclerccommunication.ca/proxy/cfel/cfel.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/eb8JqBYBcG.png",
+        "Language": "NA",
+        "Categories": "Rock"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CITA 105.1 Harvesters FM Moncton",
+        "radioUrl": "http://harvestersfm.radioca.st:8833/NB",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/CVuhKqQPHK.png",
+        "Language": "English",
+        "Categories": "Christian"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CFRC 101.9 live",
+        "radioUrl": "https://audio.cfrc.ca/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/4wvyH6um7s.png",
+        "Language": "English",
+        "Categories": "College, Community"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CISM 89.3 FM live",
+        "radioUrl": "https://stream03.ustream.ca/cism128.mp3",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/7cTfaQgEJ9.jpg",
+        "Language": "English",
+        "Categories": "College"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKUT 90.3 FM live",
+        "radioUrl": "https://delray.ckut.ca:8001/903fm-128-stereo",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/JSNud4pV4x.png",
+        "Language": "English",
+        "Categories": "College, Community"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJMC Bleu FM - live",
+        "radioUrl": "https://centova.radioservers.biz/proxy/cjmcfmj1/stream",
+        "image": "https://static.mytuner.mobi/media/tvos_radios/tmLDHgBXbz.jpg",
+        "Language": "English",
+        "Categories": "Adult Contemporary"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHOX 97.5 live",
+        "radioUrl": "https://stream.statsradio.com:8052/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/nxW2WycxP6.png",
+        "Language": "English",
+        "Categories": "Adult Contemporary"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHOQ-FM 105.1 live",
+        "radioUrl": "https://ice9.securenetsystems.net/CHOQ",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/ZpHaQRatjE.jpg",
+        "Language": "NA",
+        "Categories": "Community"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJPN Radio Fredericton 90.5 live",
+        "radioUrl": "https://stream2.statsradio.com:8022/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/H7nPNCCgdx.png",
+        "Language": "NA",
+        "Categories": "Adult Contemporary, Top 40"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CKGE 94.9 The Rock live",
+        "radioUrl": "https://15113.live.streamtheworld.com/CKGEFM_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/DbHhUz5KJ9.png",
+        "Language": "English",
+        "Categories": "Alternative Rock, Rock"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CIXX 106.9 The X live",
+        "radioUrl": "https://ice23.securenetsystems.net/CIXXFM",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/2edG88C62E.png",
+        "Language": "English",
+        "Categories": "College"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJMS Country 1040 AM live",
+        "radioUrl": "https://cjms.ca:8002/stream",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/4DTjVfcc4W.png",
+        "Language": "English",
+        "Categories": "Country, Talk"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CJWI CPAM 1410 AM live",
+        "radioUrl": "http://streaming.radionomy.com/JamendoLounge",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/SHCr5TSfRg.png",
+        "Language": "English",
+        "Categories": "World Music"
+    },
+    {
+        "newsId": 1,
+        "id": "1",
+        "title": "CHKX KX 94.7 live",
+        "radioUrl": "https://19473.live.streamtheworld.com/CHKXFMAAC_SC",
+        "image": "https://static2.mytuner.mobi/media/tvos_radios/bU8w5EV3U4.png",
+        "Language": "English",
+        "Categories": "Country"
+    }
+]
